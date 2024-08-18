@@ -3,21 +3,20 @@
 # ✨ О Себе:
 🔭 Разрабатываю мультиплеерную хоррор игру уже 3 месяца<br>🤝 Ищу работу<br>🌱 А пока программируем и моделируем!
 
-# 🔮 Мотивация:
-🎮 Half-Life: Alyx - в ней все идеально...
-
 # 💻 Стек:
 **C++<br/>
 Unreal Engine<br/>
 Maya/RizomUV/ZBrush<br/>
 Substance Painter/Designer<br/>**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ivaca&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ivaca&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ivaca&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 🔮 Мотивация:
+🎮 Half-Life: Alyx - в ней все идеально...
 
----
+# 🕹️ Игры:
+**Ocean Pressure** - https://store.steampowered.com/app/2604220/Ocean_Pressure/
+**The Office** - игра в стадии разработки, https://github.com/ivaca/TheOfficeHorror
+
+
 
 
 
