@@ -10,11 +10,11 @@ Maya/RizomUV/ZBrush<br/>
 Substance Painter/Designer<br/>**
 
 # 🔮 Мотивация:
-🎮 Half-Life: Alyx - в ней все идеально...
+🎮 Half-Life: Alyx - в ней все идеально...<br/>
 
 # 🕹️ Игры:
-**Ocean Pressure** - https://store.steampowered.com/app/2604220/Ocean_Pressure/
-**The Office** - игра в стадии разработки, https://github.com/ivaca/TheOfficeHorror
+**Ocean Pressure** - https://store.steampowered.com/app/2604220/Ocean_Pressure/ <br/>
+**The Office** - игра в стадии разработки, https://github.com/ivaca/TheOfficeHorror <br/>
 
 
 
