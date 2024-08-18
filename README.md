@@ -5,10 +5,10 @@
 
 
 # 💻 Стек:
-**C++
-Unreal Engine
-Maya/RizomUV/ZBrush
-Substance Painter/Designer**
+**C++<br/>
+Unreal Engine<br/>
+Maya/RizomUV/ZBrush<br/>
+Substance Painter/Designer<br/>**
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ivaca&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
