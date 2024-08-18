@@ -5,10 +5,10 @@
 
 
 # 💻 Стек:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Unreal Engine]
-![Maya/RizomUV/ZBrush]
-![Substance Painter/Designer]
+**C++
+Unreal Engine
+Maya/RizomUV/ZBrush
+Substance Painter/Designer**
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ivaca&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
